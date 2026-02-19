@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About me
+I'm a computer scientist interested in machine learning research in domains that explicitly aim to directly benefit human society, such as medical science, renewable energy, and AI safety. I also write fiction and oppose the use of AI to imitate human expression. My suggestion is that we instead investigate the possibility of using it to birth an avant-garde field of artistic creation natural to its mechanisms and capabilities.
