@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a computer scientist interested in machine learning research in domains that explicitly aim to directly benefit human society, such as medical science, renewable energy, and AI safety. I also write fiction and oppose the use of AI to imitate human expression. My suggestion is that we instead investigate the possibility of using it to birth an avant-garde field of artistic creation natural to its mechanisms and capabilities.
+I'm a computer scientist interested in machine learning research in scientific domains aiming to further human knowledge and better our general quality of life, such as healthcare, computational biology, materials, renewable energy, and AI safety.
