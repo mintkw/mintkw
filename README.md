@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a computer scientist interested in machine learning research in scientific domains aiming to further human knowledge and better our general quality of life, such as healthcare, computational biology, materials, renewable energy, and AI safety.
+I'm a computer science graduate with a focus on machine learning. I'm particularly interested in scientific applications of machine learning which seek to further human knowledge and benefit society, such as healthcare, computational biology, materials, renewable energy, and AI safety.
